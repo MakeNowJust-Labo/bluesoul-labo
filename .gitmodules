@@ -1,0 +1,15 @@
+[submodule "repo/consul"]
+	path = repo/consul
+	url = git://github.com/consul/consul.git
+[submodule "repo/kubernetes"]
+	path = repo/kubernetes
+	url = git://github.com/kubernetes/kubernetes.git
+[submodule "repo/istio"]
+	path = repo/istio
+	url = git://github.com/istio/istio.git
+[submodule "repo/hugo"]
+	path = repo/hugo
+	url = git://github.com/gohugoio/hugo.git
+[submodule "repo/influxdb"]
+	path = repo/influxdb
+	url = git://github.com/influxdata/influxdb.git

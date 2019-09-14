@@ -1,0 +1,9 @@
+# github.com/gohugoio/hugo/hugofs
+hugofs/hashing_fs.go:29:47: duplicate articles: "an the"
+# github.com/gohugoio/hugo/output
+output/layout_base.go:48:39: duplicate articles: "the the"
+output/layout_base.go:151:21: duplicate articles: "a a"
+# github.com/gohugoio/hugo/tpl/internal
+tpl/internal/templatefuncsRegistry.go:102:15: duplicate articles: "a the"
+# github.com/gohugoio/hugo/hugolib
+hugolib/site_sections_test.go:68:24: duplicate articles: "a the"

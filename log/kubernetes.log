@@ -1,0 +1,59 @@
+# k8s.io/kubernetes/cmd/kube-apiserver/app
+cmd/kube-apiserver/app/server.go:425:70: undefined: "k8s.io/kubernetes/pkg/generated/openapi".GetOpenAPIDefinitions
+# k8s.io/kubernetes/pkg/volume/csi/csiv0
+pkg/volume/csi/csiv0/csi.pb.go:1500:19: duplicate articles: "the the"
+pkg/volume/csi/csiv0/csi.pb.go:1514:5: duplicate articles: "the the"
+pkg/volume/csi/csiv0/csi.pb.go:1532:24: duplicate articles: "the the"
+# k8s.io/kubernetes/pkg/kubelet/metrics
+pkg/kubelet/metrics/metrics.go:633:24: duplicate articles: "a the"
+# k8s.io/kubernetes/pkg/apis/apps/validation
+pkg/apis/apps/validation/validation.go:550:44: duplicate articles: "a an"
+# k8s.io/kubernetes/pkg/apis/core
+pkg/apis/core/types.go:1332:7: duplicate articles: "a an"
+# k8s.io/kubernetes/pkg/controller/deployment
+pkg/controller/deployment/deployment_controller.go:528:57: duplicate articles: "the the"
+# k8s.io/kubernetes/pkg/controller/endpointslice
+pkg/controller/endpointslice/reconciler.go:256:46: duplicate articles: "the the"
+# k8s.io/kubernetes/pkg/controller/nodelifecycle
+pkg/controller/nodelifecycle/node_lifecycle_controller.go:1227:44: duplicate articles: "a the"
+# k8s.io/kubernetes/pkg/controller/statefulset
+pkg/controller/statefulset/stateful_set_utils.go:142:62: duplicate articles: "a the"
+# k8s.io/kubernetes/pkg/controller/volume/attachdetach/reconciler
+pkg/controller/volume/attachdetach/reconciler/reconciler_test.go:537:62: duplicate articles: "the a"
+pkg/controller/volume/attachdetach/reconciler/reconciler_test.go:604:62: duplicate articles: "the a"
+# k8s.io/kubernetes/pkg/generated/openapi
+bluesoul: pkg/generated/openapi/openapi_test.go:31:27: undeclared name: GetOpenAPIDefinitions
+# k8s.io/kubernetes/pkg/kubectl/cmd/get
+pkg/kubectl/cmd/get/sorter.go:314:47: duplicate articles: "the the"
+# k8s.io/kubernetes/pkg/kubelet/cm/topologymanager
+pkg/kubelet/cm/topologymanager/topology_manager.go:169:68: duplicate articles: "the the"
+# k8s.io/kubernetes/pkg/kubelet/dockershim
+pkg/kubelet/dockershim/docker_container.go:101:11: duplicate articles: "a the"
+# k8s.io/kubernetes/pkg/kubelet/pluginmanager/cache
+pkg/kubelet/pluginmanager/cache/desired_state_of_world.go:134:12: duplicate articles: "the the"
+# k8s.io/kubernetes/pkg/kubelet/pluginmanager/operationexecutor
+pkg/kubelet/pluginmanager/operationexecutor/operation_executor.go:46:53: duplicate articles: "the a"
+# k8s.io/kubernetes/pkg/master
+bluesoul: pkg/master/master_openapi_test.go:47:88: GetOpenAPIDefinitions not declared by package openapi
+# k8s.io/kubernetes/pkg/registry/core/pod/storage
+pkg/registry/core/pod/storage/storage_test.go:108:30: duplicate articles: "an an"
+# k8s.io/kubernetes/pkg/scheduler/internal/cache
+pkg/scheduler/internal/cache/cache.go:211:32: duplicate articles: "the the"
+# k8s.io/kubernetes/pkg/scheduler/util
+pkg/scheduler/util/heap.go:17:35: duplicate articles: "the a"
+# k8s.io/kubernetes/pkg/util/goroutinemap
+pkg/util/goroutinemap/goroutinemap.go:35:58: duplicate articles: "the a"
+# k8s.io/kubernetes/pkg/volume
+pkg/volume/volume.go:246:76: duplicate articles: "the the"
+# k8s.io/kubernetes/test/e2e/generated
+test/e2e/generated/gobindata_util.go:27:20: undefined: Asset
+test/e2e/generated/gobindata_util.go:30:48: undefined: AssetNames
+# k8s.io/kubernetes/test/e2e/apimachinery
+test/e2e/apimachinery/webhook.go:273:23: duplicate articles: "the the"
+# k8s.io/kubernetes/test/e2e/upgrades/apps
+test/e2e/upgrades/apps/job.go:53:55: duplicate articles: "the an"
+# k8s.io/kubernetes/test/e2e/network
+test/e2e/network/network_tiers.go:160:72: duplicate articles: "the the"
+# k8s.io/kubernetes/test/e2e/framework/providers/gce
+test/e2e/framework/providers/gce/ingress.go:672:41: duplicate articles: "the a"
+test/e2e/framework/providers/gce/ingress.go:686:42: duplicate articles: "the a"

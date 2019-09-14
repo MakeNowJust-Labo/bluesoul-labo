@@ -1,0 +1,18 @@
+# istio.io/istio/pkg/config/protocol
+pkg/config/protocol/instance.go:34:18: duplicate articles: "the the"
+# istio.io/istio/galley/pkg/source/kube/dynamic
+galley/pkg/source/kube/dynamic/source.go:119:11: duplicate articles: "the an"
+# istio.io/istio/galley/pkg/source/kube/builtin
+galley/pkg/source/kube/builtin/source.go:95:11: duplicate articles: "the an"
+# istio.io/istio/pilot/pkg/networking/core/v1alpha3/route
+pilot/pkg/networking/core/v1alpha3/route/route.go:67:43: duplicate articles: "a the"
+# istio.io/istio/mixer/pkg/adapter/opencensus
+mixer/pkg/adapter/opencensus/traceutil.go:38:77: duplicate articles: "the the"
+# istio.io/istio/pilot/cmd/pilot-agent/status
+pilot/cmd/pilot-agent/status/server.go:120:14: duplicate articles: "a the"
+# istio.io/istio/pilot/pkg/model
+pilot/pkg/model/authorization.go:29:28: duplicate articles: "the the"
+# istio.io/istio/pkg/envoy
+pkg/envoy/watcher.go:80:39: duplicate articles: "the the"
+# istio.io/istio/pilot/pkg/proxy/envoy/v2
+pilot/pkg/proxy/envoy/v2/ads.go:482:68: duplicate articles: "a a"

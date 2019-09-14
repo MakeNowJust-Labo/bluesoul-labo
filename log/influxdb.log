@@ -1,0 +1,32 @@
+# github.com/influxdata/influxdb
+./session.go:14:24: duplicate articles: "the the"
+# github.com/influxdata/influxdb/chronograf
+chronograf/kapacitor.go:37:53: duplicate articles: "the the"
+# github.com/influxdata/influxdb/chronograf/filestore
+chronograf/filestore/apps.go:15:14: duplicate articles: "the the"
+chronograf/filestore/dashboards.go:16:15: duplicate articles: "the the"
+chronograf/filestore/kapacitors.go:14:14: duplicate articles: "the the"
+chronograf/filestore/organizations.go:13:14: duplicate articles: "the the"
+chronograf/filestore/sources.go:14:14: duplicate articles: "the the"
+# github.com/influxdata/influxdb/chronograf/oauth2
+chronograf/oauth2/generic.go:122:55: duplicate articles: "the the"
+chronograf/oauth2/mux.go:111:50: duplicate articles: "the the"
+# github.com/influxdata/influxdb/query/stdlib/influxdata/influxdb
+query/stdlib/influxdata/influxdb/to.go:393:41: duplicate articles: "the the"
+# github.com/influxdata/influxdb/chronograf/server
+chronograf/server/links.go:25:72: duplicate articles: "the a"
+chronograf/server/me.go:249:30: duplicate articles: "a the"
+# github.com/influxdata/influxdb/bolt
+bolt/bbolt.go:50:31: duplicate articles: "an a"
+# github.com/influxdata/influxdb/http
+http/server.go:105:31: duplicate articles: "the the"
+# github.com/influxdata/influxdb/tsdb/tsi1
+tsdb/tsi1/cache.go:64:27: duplicate articles: "the an"
+# github.com/influxdata/influxdb/tsdb/tsm1
+tsdb/tsm1/int.go:299:68: duplicate articles: "the the"
+tsdb/tsm1/predicate.go:301:83: duplicate articles: "an an"
+tsdb/tsm1/report.go:313:22: duplicate articles: "a a"
+tsdb/tsm1/timestamp.go:44:25: duplicate articles: "a an"
+tsdb/tsm1/timestamp.go:91:23: duplicate articles: "the the"
+tsdb/tsm1/writer.go:39:16: duplicate articles: "the the"
+tsdb/tsm1/writer.go:170:30: duplicate articles: "a the"

@@ -1,0 +1,29 @@
+# github.com/hashicorp/consul/agent/connect
+agent/connect/parsing.go:81:12: duplicate articles: "the the"
+agent/connect/uri.go:49:24: duplicate articles: "a the"
+# github.com/hashicorp/consul/agent/config
+agent/config/config.go:53:59: duplicate articles: "a a"
+# github.com/hashicorp/consul/agent
+agent/agent.go:3353:4: duplicate articles: "the a"
+# github.com/hashicorp/consul/agent/consul/autopilot
+agent/consul/autopilot/autopilot.go:378:9: duplicate articles: "the the"
+# github.com/hashicorp/consul/agent/proxycfg
+agent/proxycfg/proxycfg.go:40:43: duplicate articles: "the the"
+# github.com/hashicorp/consul/agent/consul/state
+agent/consul/state/kvs.go:332:69: duplicate articles: "the the"
+# github.com/hashicorp/consul/agent/structs
+agent/structs/acl.go:1062:19: duplicate articles: "the the"
+agent/structs/acl.go:1062:71: duplicate articles: "the the"
+agent/structs/prepared_query.go:291:17: duplicate articles: "the the"
+# github.com/hashicorp/consul/agent/xds
+agent/xds/config.go:52:57: duplicate articles: "the an"
+agent/xds/config.go:142:63: duplicate articles: "the an"
+# github.com/hashicorp/consul/agent/consul
+agent/consul/rpc.go:34:23: duplicate articles: "a the"
+agent/consul/prepared_query_endpoint_test.go:2979:30: duplicate articles: "the the"
+# github.com/hashicorp/consul/command/connect/envoy
+command/connect/envoy/bootstrap_tpl.go:6:42: duplicate articles: "the the"
+# github.com/hashicorp/consul/agent/connect/ca
+agent/connect/ca/provider.go:63:71: duplicate articles: "the the"
+# github.com/hashicorp/consul/connect
+connect/tls.go:455:49: duplicate articles: "the the"
